@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/animalfriendlywinerepository/static/css/main.ef5b36f0.chunk.css",
+    "main.js": "/animalfriendlywinerepository/static/js/main.b631c663.chunk.js",
+    "main.js.map": "/animalfriendlywinerepository/static/js/main.b631c663.chunk.js.map",
+    "runtime-main.js": "/animalfriendlywinerepository/static/js/runtime-main.f34f5646.js",
+    "runtime-main.js.map": "/animalfriendlywinerepository/static/js/runtime-main.f34f5646.js.map",
+    "static/js/2.ae2fcd63.chunk.js": "/animalfriendlywinerepository/static/js/2.ae2fcd63.chunk.js",
+    "static/js/2.ae2fcd63.chunk.js.map": "/animalfriendlywinerepository/static/js/2.ae2fcd63.chunk.js.map",
+    "index.html": "/animalfriendlywinerepository/index.html",
+    "static/css/main.ef5b36f0.chunk.css.map": "/animalfriendlywinerepository/static/css/main.ef5b36f0.chunk.css.map",
+    "static/js/2.ae2fcd63.chunk.js.LICENSE.txt": "/animalfriendlywinerepository/static/js/2.ae2fcd63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f34f5646.js",
+    "static/js/2.ae2fcd63.chunk.js",
+    "static/css/main.ef5b36f0.chunk.css",
+    "static/js/main.b631c663.chunk.js"
+  ]
+}
